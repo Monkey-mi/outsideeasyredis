@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/outside/!svn/ver/2037/outsideeasy/src/usercenter/saleManage/service
+END
+AccessAccountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessAccountService.java
+END
+AccessApplicationGoodsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessApplicationGoodsService.java
+END
+AccessApplicationCustomerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessApplicationCustomerService.java
+END
+AccessApplicationCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/3088/outsideeasy/src/usercenter/saleManage/service/AccessApplicationCategoryService.java
+END
+CheckfactoryInformService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/3204/outsideeasy/src/usercenter/saleManage/service/CheckfactoryInformService.java
+END
+AccessApplicationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/outside/!svn/ver/2232/outsideeasy/src/usercenter/saleManage/service/AccessApplicationService.java
+END
+AdmittanceAuditService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/outside/!svn/ver/1495/outsideeasy/src/usercenter/saleManage/service/AdmittanceAuditService.java
+END
+AccessInvoiceTitleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessInvoiceTitleService.java
+END
+AccessApplicationMaterialService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessApplicationMaterialService.java
+END
+AccessRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/outside/!svn/ver/3498/outsideeasy/src/usercenter/saleManage/service/AccessRecordService.java
+END
+CheckfactoryReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/1897/outsideeasy/src/usercenter/saleManage/service/CheckfactoryReportService.java
+END
+AccessApplicationCompetitorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessApplicationCompetitorService.java
+END
+AccessApplicationAttchedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/outside/!svn/ver/2952/outsideeasy/src/usercenter/saleManage/service/AccessApplicationAttchedService.java
+END
+CustomerFilesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/3160/outsideeasy/src/usercenter/saleManage/service/CustomerFilesService.java
+END
+AccessApplicationInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/outside/!svn/ver/3601/outsideeasy/src/usercenter/saleManage/service/AccessApplicationInfoService.java
+END
+SaleCenterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/outside/!svn/ver/2909/outsideeasy/src/usercenter/saleManage/service/SaleCenterService.java
+END
+AccessApplicationDevicelistService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessApplicationDevicelistService.java
+END
+MaterialcheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/1897/outsideeasy/src/usercenter/saleManage/service/MaterialcheckService.java
+END
+AccessTempletService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/1495/outsideeasy/src/usercenter/saleManage/service/AccessTempletService.java
+END
+AccessTempletHeadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/outside/!svn/ver/2792/outsideeasy/src/usercenter/saleManage/service/AccessTempletHeadService.java
+END

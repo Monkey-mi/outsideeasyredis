@@ -1,0 +1,43 @@
+10
+
+dir
+2828
+https://192.168.1.100/svn/outside/outsideeasy/src/manager/ipmanager
+https://192.168.1.100/svn/outside
+
+
+
+2016-08-01T06:07:08.857794Z
+1434
+chenlong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+Controller
+dir
+
+data
+dir
+
+ipResponse
+dir
+
+model
+dir
+
+service
+dir
+

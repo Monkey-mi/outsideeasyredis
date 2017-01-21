@@ -1,0 +1,40 @@
+10
+
+dir
+2071
+https://192.168.1.100/svn/outside/outsideeasy/src/common/dictionary
+https://192.168.1.100/svn/outside
+
+
+
+2016-08-12T01:14:48.928620Z
+1541
+chenlong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+controller
+dir
+
+data
+dir
+
+model
+dir
+
+service
+dir
+

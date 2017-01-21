@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data
+END
+NodeInterface.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/NodeInterface.js
+END
+Session.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Session.js
+END
+LocalStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/LocalStore.js
+END
+ProxyStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/ProxyStore.js
+END
+Request.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Request.js
+END
+PageMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/PageMap.js
+END
+StoreManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/StoreManager.js
+END
+TreeModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/TreeModel.js
+END
+XmlStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/XmlStore.js
+END
+Model.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Model.js
+END
+JsonP.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/JsonP.js
+END
+ArrayStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/ArrayStore.js
+END
+Error.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Error.js
+END
+ErrorCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/ErrorCollection.js
+END
+ResultSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/ResultSet.js
+END
+ModelManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/ModelManager.js
+END
+TreeStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/TreeStore.js
+END
+BufferedStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/BufferedStore.js
+END
+ChainedStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/ChainedStore.js
+END
+Store.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Store.js
+END
+AbstractStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/AbstractStore.js
+END
+NodeStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/NodeStore.js
+END
+Connection.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Connection.js
+END
+SortTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/SortTypes.js
+END
+Batch.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Batch.js
+END
+Types.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Types.js
+END
+JsonPStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/JsonPStore.js
+END
+Validation.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/Validation.js
+END
+JsonStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/JsonStore.js
+END
+DirectStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/data/DirectStore.js
+END

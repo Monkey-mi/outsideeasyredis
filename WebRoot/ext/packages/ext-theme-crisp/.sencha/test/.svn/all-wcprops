@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/ext-theme-crisp/.sencha/test
+END
+codegen.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/ext-theme-crisp/.sencha/test/codegen.json
+END
+test-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/ext-theme-crisp/.sencha/test/test-impl.xml
+END
+jasmine-adapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/ext-theme-crisp/.sencha/test/jasmine-adapter.js
+END
+jasmine.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/ext-theme-crisp/.sencha/test/jasmine.js
+END
+Ext.cmd.api.adapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/ext-theme-crisp/.sencha/test/Ext.cmd.api.adapter.js
+END

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="common.visitrecord.data.VisitRecordMapper">
+
+
+<select id="getVisitRecordList" parameterType="map" resultType="common.visitrecord.model.VisitRecord">
+	select
+		visit_record.id,
+		visit_record.uri,
+		visit_record.account_id,
+		visit_record.account_name,
+		visit_record.visit_dt,
+		visit_record.plate_type
+	from
+		visit_record
+</select>
+<insert id="addVisitRecord" parameterType="common.visitrecord.model.VisitRecord" keyProperty="" useGeneratedKeys="true">
+	insert into visit_record
+	(
+		uri,
+		account_id,
+		account_name,
+		visit_dt,
+		plate_type
+	)
+	values
+	(
+		#{uri},
+		#{account_id},
+		#{account_name},
+		#{visit_dt},
+		#{plate_type}
+	)
+</insert>
+<update id="updateVisitRecord" parameterType="common.visitrecord.model.VisitRecord">
+	update visit_record
+		set
+			id = #{id},
+			uri = #{uri},
+			account_id = #{account_id},
+			account_name = #{account_name},
+			visit_dt = #{visit_dt},
+			plate_type = #{plate_type}
+		where  = #{}
+</update>
+<delete id="deleteVisitRecord" parameterType="common.visitrecord.model.VisitRecord">
+	delete from visit_record
+	where  = #{}
+</delete>
+</mapper>

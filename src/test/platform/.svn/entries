@@ -1,0 +1,53 @@
+10
+
+dir
+2071
+https://192.168.1.100/svn/outside/outsideeasy/src/test/platform
+https://192.168.1.100/svn/outside
+
+
+
+2016-07-05T04:02:50.446953Z
+1256
+mishengliang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+
+
+
+
+
+0
+
+common
+dir
+
+company
+dir
+
+email
+dir
+
+supplier
+dir
+
+supplierAccess
+dir
+
+user
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/outside/!svn/ver/3/outsideeasy/WebRoot/login
+END
+activate_success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/outside/!svn/ver/3/outsideeasy/WebRoot/login/activate_success.jsp
+END
+please_activate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/outside/!svn/ver/3/outsideeasy/WebRoot/login/please_activate.jsp
+END
+activate_failure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/outside/!svn/ver/3/outsideeasy/WebRoot/login/activate_failure.jsp
+END

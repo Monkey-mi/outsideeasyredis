@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/outside/!svn/ver/3580/outsideeasy/src/usercenter/externalTask/controller
+END
+TaskCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/3713/outsideeasy/src/usercenter/externalTask/controller/TaskCtrl.java
+END
+TaskLogisticsItemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/3157/outsideeasy/src/usercenter/externalTask/controller/TaskLogisticsItemController.java
+END
+TaskFileController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/outside/!svn/ver/3609/outsideeasy/src/usercenter/externalTask/controller/TaskFileController.java
+END
+TaskRandomCheckCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/outside/!svn/ver/3576/outsideeasy/src/usercenter/externalTask/controller/TaskRandomCheckCtrl.java
+END
+TaskLogisticsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/outside/!svn/ver/3552/outsideeasy/src/usercenter/externalTask/controller/TaskLogisticsController.java
+END
+TaskDeliverGoodController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/outside/!svn/ver/3755/outsideeasy/src/usercenter/externalTask/controller/TaskDeliverGoodController.java
+END
+TaskAllCheckController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/outside/!svn/ver/3552/outsideeasy/src/usercenter/externalTask/controller/TaskAllCheckController.java
+END
+TaskBomController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/outside/!svn/ver/3157/outsideeasy/src/usercenter/externalTask/controller/TaskBomController.java
+END
+TaskProcessSectionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/481/outsideeasy/src/usercenter/externalTask/controller/TaskProcessSectionController.java
+END
+TaskProcessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/481/outsideeasy/src/usercenter/externalTask/controller/TaskProcessController.java
+END
+TaskAllCheckUnqudetailCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/outside/!svn/ver/3552/outsideeasy/src/usercenter/externalTask/controller/TaskAllCheckUnqudetailCtrl.java
+END
+TaskQcController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/outside/!svn/ver/3157/outsideeasy/src/usercenter/externalTask/controller/TaskQcController.java
+END
+ShippingRegistrationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/outside/!svn/ver/3552/outsideeasy/src/usercenter/externalTask/controller/ShippingRegistrationController.java
+END
+TaskOutputController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/3774/outsideeasy/src/usercenter/externalTask/controller/TaskOutputController.java
+END

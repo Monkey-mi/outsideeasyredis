@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/outside/!svn/ver/2031/outsideeasy/src/usercenter/saleManage/tradeManager/data
+END
+ProductListMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/outside/!svn/ver/1725/outsideeasy/src/usercenter/saleManage/tradeManager/data/ProductListMapper.java
+END
+PurchaseOrderMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/outside/!svn/ver/2402/outsideeasy/src/usercenter/saleManage/tradeManager/data/PurchaseOrderMapper.java
+END
+OrderAgreementFileMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/outside/!svn/ver/2434/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderAgreementFileMapper.xml
+END
+OrderCancelRecordMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/1849/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderCancelRecordMapper.xml
+END
+OrderDeliveryNoticeMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/outside/!svn/ver/3677/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderDeliveryNoticeMapper.xml
+END
+OrderDeliveryNoticedetailsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/outside/!svn/ver/1923/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderDeliveryNoticedetailsMapper.java
+END
+OrderEndRecordMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/outside/!svn/ver/2290/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderEndRecordMapper.xml
+END
+OrderEndRecordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/outside/!svn/ver/1901/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderEndRecordMapper.java
+END
+OrderDeliveryNoticedetailsMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/outside/!svn/ver/2778/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderDeliveryNoticedetailsMapper.xml
+END
+OrderDeliveryNoticeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/outside/!svn/ver/3493/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderDeliveryNoticeMapper.java
+END
+OrderCancelRecordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/outside/!svn/ver/1849/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderCancelRecordMapper.java
+END
+ProductListMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/outside/!svn/ver/3669/outsideeasy/src/usercenter/saleManage/tradeManager/data/ProductListMapper.xml
+END
+PurchaseOrderMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/outside/!svn/ver/3716/outsideeasy/src/usercenter/saleManage/tradeManager/data/PurchaseOrderMapper.xml
+END
+OrderAgreementFileMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/outside/!svn/ver/1764/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderAgreementFileMapper.java
+END
+OrderRequirementMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/1704/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderRequirementMapper.java
+END
+PurchaseOrderOperatingMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/outside/!svn/ver/1704/outsideeasy/src/usercenter/saleManage/tradeManager/data/PurchaseOrderOperatingMapper.java
+END
+OrderAttchedFileMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/outside/!svn/ver/2325/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderAttchedFileMapper.java
+END
+OrderAttchedFileMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/outside/!svn/ver/2337/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderAttchedFileMapper.xml
+END
+PurchaseOrderOperatingMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/outside/!svn/ver/1704/outsideeasy/src/usercenter/saleManage/tradeManager/data/PurchaseOrderOperatingMapper.xml
+END
+OrderRequirementMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/outside/!svn/ver/1704/outsideeasy/src/usercenter/saleManage/tradeManager/data/OrderRequirementMapper.xml
+END

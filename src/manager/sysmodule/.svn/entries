@@ -1,0 +1,34 @@
+10
+
+dir
+2828
+https://192.168.1.100/svn/outside/outsideeasy/src/manager/sysmodule
+https://192.168.1.100/svn/outside
+
+
+
+2016-09-23T01:19:38.478645Z
+2376
+mishengliang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+controller
+dir
+
+service
+dir
+

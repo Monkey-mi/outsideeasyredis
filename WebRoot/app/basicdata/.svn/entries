@@ -1,0 +1,61 @@
+10
+
+dir
+2828
+https://192.168.1.100/svn/outside/outsideeasy/WebRoot/app/basicdata
+https://192.168.1.100/svn/outside
+
+
+
+2016-11-01T06:24:04.051972Z
+2803
+chenlong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+area
+dir
+
+companyClass
+dir
+
+currency
+dir
+
+file
+dir
+
+industryClass
+dir
+
+level
+dir
+
+materialClass
+dir
+
+regAccount
+dir
+
+sFilter
+dir
+
+taxmanClass
+dir
+
+tradeClass
+dir
+

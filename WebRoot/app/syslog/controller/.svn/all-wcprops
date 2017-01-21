@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/outside/!svn/ver/2955/outsideeasy/WebRoot/app/syslog/controller
+END
+SrmlogController.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/outside/!svn/ver/2983/outsideeasy/WebRoot/app/syslog/controller/SrmlogController.js
+END
+BgErrorLogController.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/outside/!svn/ver/2957/outsideeasy/WebRoot/app/syslog/controller/BgErrorLogController.js
+END
+BglogController.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/outside/!svn/ver/2957/outsideeasy/WebRoot/app/syslog/controller/BglogController.js
+END
+ErrorLogController.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/2953/outsideeasy/WebRoot/app/syslog/controller/ErrorLogController.js
+END

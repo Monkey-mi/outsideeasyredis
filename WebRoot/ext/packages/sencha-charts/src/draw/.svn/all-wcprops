@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw
+END
+Animator.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/Animator.js
+END
+PathUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/PathUtil.js
+END
+Path.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/Path.js
+END
+Draw.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/Draw.js
+END
+Color.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/Color.js
+END
+Matrix.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/Matrix.js
+END
+TimingFunctions.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/TimingFunctions.js
+END
+SegmentTree.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/SegmentTree.js
+END
+Container.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/Container.js
+END
+TextMeasurer.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/TextMeasurer.js
+END
+Surface.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/Surface.js
+END
+LimitedCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-charts/src/draw/LimitedCache.js
+END

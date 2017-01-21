@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/outside/!svn/ver/2841/outsideeasy/src/manager/taskManager/controller
+END
+MngAppTaskLogisticsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/outside/!svn/ver/159/outsideeasy/src/manager/taskManager/controller/MngAppTaskLogisticsController.java
+END
+MngAppTaskOutputController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/outside/!svn/ver/159/outsideeasy/src/manager/taskManager/controller/MngAppTaskOutputController.java
+END
+MngAppTaskBomController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/outside/!svn/ver/144/outsideeasy/src/manager/taskManager/controller/MngAppTaskBomController.java
+END
+MngAppTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/144/outsideeasy/src/manager/taskManager/controller/MngAppTaskController.java
+END
+MngAppTaskProcessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/outside/!svn/ver/159/outsideeasy/src/manager/taskManager/controller/MngAppTaskProcessController.java
+END
+MngAppQcController.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/outside/!svn/ver/2841/outsideeasy/src/manager/taskManager/controller/MngAppQcController.java
+END
+MngAppTaskFileController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/3076/outsideeasy/src/manager/taskManager/controller/MngAppTaskFileController.java
+END
+MngAppLogisticsItemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/outside/!svn/ver/1236/outsideeasy/src/manager/taskManager/controller/MngAppLogisticsItemController.java
+END
+MngTaskSectionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/2841/outsideeasy/src/manager/taskManager/controller/MngTaskSectionController.java
+END

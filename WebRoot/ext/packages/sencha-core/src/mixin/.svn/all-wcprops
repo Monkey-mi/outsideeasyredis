@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin
+END
+Bindable.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Bindable.js
+END
+Identifiable.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Identifiable.js
+END
+Selectable.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Selectable.js
+END
+Inheritable.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Inheritable.js
+END
+Templatable.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Templatable.js
+END
+Factoryable.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Factoryable.js
+END
+Mashup.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Mashup.js
+END
+Responsive.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Responsive.js
+END
+Observable.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Observable.js
+END
+Queryable.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Queryable.js
+END
+Hookable.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Hookable.js
+END
+Traversable.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/mixin/Traversable.js
+END

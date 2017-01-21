@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd
+END
+DragTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DragTracker.js
+END
+DragDrop.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DragDrop.js
+END
+DDTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DDTarget.js
+END
+DropTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DropTarget.js
+END
+DD.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DD.js
+END
+DragZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DragZone.js
+END
+ScrollManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/ScrollManager.js
+END
+DragSource.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DragSource.js
+END
+DDProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DDProxy.js
+END
+Registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/Registry.js
+END
+StatusProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/StatusProxy.js
+END
+DropZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DropZone.js
+END
+DragDropManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/outside/!svn/ver/4/outsideeasy/WebRoot/ext/src/dd/DragDropManager.js
+END

@@ -1,0 +1,34 @@
+10
+
+dir
+2071
+https://192.168.1.100/svn/outside/outsideeasy/src/platform/basicdata/user
+https://192.168.1.100/svn/outside
+
+
+
+2016-08-20T12:29:01.726500Z
+1698
+wuqia
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+data
+dir
+
+service
+dir
+

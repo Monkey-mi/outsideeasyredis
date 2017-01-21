@@ -1,0 +1,40 @@
+10
+
+dir
+2071
+https://192.168.1.100/svn/outside/outsideeasy/src/common/email
+https://192.168.1.100/svn/outside
+
+
+
+2016-06-22T11:44:58.926859Z
+1177
+mishengliang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+controller
+dir
+
+data
+dir
+
+model
+dir
+
+service
+dir
+

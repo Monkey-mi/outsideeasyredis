@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/outside/!svn/ver/2038/outsideeasy/src/usercenter/saleManage/tradeManager/service
+END
+OrderRequirementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/outside/!svn/ver/1741/outsideeasy/src/usercenter/saleManage/tradeManager/service/OrderRequirementService.java
+END
+OrderAgreementFileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/outside/!svn/ver/2441/outsideeasy/src/usercenter/saleManage/tradeManager/service/OrderAgreementFileService.java
+END
+OrderDeliveryNoticedetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/outside/!svn/ver/1923/outsideeasy/src/usercenter/saleManage/tradeManager/service/OrderDeliveryNoticedetailsService.java
+END
+OrderCancelRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/outside/!svn/ver/1849/outsideeasy/src/usercenter/saleManage/tradeManager/service/OrderCancelRecordService.java
+END
+OrderDeliveryNoticeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/outside/!svn/ver/3493/outsideeasy/src/usercenter/saleManage/tradeManager/service/OrderDeliveryNoticeService.java
+END
+PurchaseOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/outside/!svn/ver/2884/outsideeasy/src/usercenter/saleManage/tradeManager/service/PurchaseOrderService.java
+END
+ProductListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/outside/!svn/ver/1725/outsideeasy/src/usercenter/saleManage/tradeManager/service/ProductListService.java
+END
+OrderEndRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/outside/!svn/ver/2290/outsideeasy/src/usercenter/saleManage/tradeManager/service/OrderEndRecordService.java
+END
+OrderAttchedFileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/outside/!svn/ver/2441/outsideeasy/src/usercenter/saleManage/tradeManager/service/OrderAttchedFileService.java
+END
+PurchaseOrderOperatingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/outside/!svn/ver/1704/outsideeasy/src/usercenter/saleManage/tradeManager/service/PurchaseOrderOperatingService.java
+END

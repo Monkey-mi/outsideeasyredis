@@ -1,0 +1,55 @@
+10
+
+dir
+2071
+https://192.168.1.100/svn/outside/outsideeasy/src/common
+https://192.168.1.100/svn/outside
+
+
+
+2016-08-29T09:03:10.899389Z
+1839
+yangliping
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba7abe7d-a8bd-bf40-8919-156d967070e3
+
+commonfake
+dir
+
+dictionary
+dir
+
+email
+dir
+
+error
+dir
+
+model
+dir
+
+mongodb
+dir
+
+shortmessage
+dir
+
+sysmodule
+dir
+
+user
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model
+END
+UserFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/UserFunc.java
+END
+RoleFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/RoleFunc.java
+END
+UserOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/UserOrg.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/UserInfo.java
+END
+RoleConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/RoleConfig.java
+END
+UserModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/UserModule.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/Role.java
+END
+RoleModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/RoleModule.java
+END
+UserRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/outside/!svn/ver/2/outsideeasy/src/manager/common/user/model/UserRole.java
+END

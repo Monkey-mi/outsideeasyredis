@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/outside/!svn/ver/2037/outsideeasy/src/usercenter/saleManage/model
+END
+AccessInvoiceTitle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/1228/outsideeasy/src/usercenter/saleManage/model/AccessInvoiceTitle.java
+END
+AdmittanceAudit.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/outside/!svn/ver/3498/outsideeasy/src/usercenter/saleManage/model/AdmittanceAudit.java
+END
+CheckfactoryInform.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/3208/outsideeasy/src/usercenter/saleManage/model/CheckfactoryInform.java
+END
+AccessApplicationGoods.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/outside/!svn/ver/1829/outsideeasy/src/usercenter/saleManage/model/AccessApplicationGoods.java
+END
+AccessApplicationCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/outside/!svn/ver/1829/outsideeasy/src/usercenter/saleManage/model/AccessApplicationCustomer.java
+END
+AccessApplicationCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/outside/!svn/ver/2825/outsideeasy/src/usercenter/saleManage/model/AccessApplicationCategory.java
+END
+AccessAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/outside/!svn/ver/1228/outsideeasy/src/usercenter/saleManage/model/AccessAccount.java
+END
+CheckFactoryCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/1451/outsideeasy/src/usercenter/saleManage/model/CheckFactoryCycle.java
+END
+AccessTemplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/outside/!svn/ver/1549/outsideeasy/src/usercenter/saleManage/model/AccessTemplet.java
+END
+AccessTempletHead.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/1348/outsideeasy/src/usercenter/saleManage/model/AccessTempletHead.java
+END
+Materialcheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/outside/!svn/ver/1392/outsideeasy/src/usercenter/saleManage/model/Materialcheck.java
+END
+AccessApplicationDevicelist.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/2232/outsideeasy/src/usercenter/saleManage/model/AccessApplicationDevicelist.java
+END
+AccessApplicationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/outside/!svn/ver/1495/outsideeasy/src/usercenter/saleManage/model/AccessApplicationInfo.java
+END
+AccessApplicationAttched.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/outside/!svn/ver/1863/outsideeasy/src/usercenter/saleManage/model/AccessApplicationAttched.java
+END
+CustomerFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/outside/!svn/ver/2324/outsideeasy/src/usercenter/saleManage/model/CustomerFiles.java
+END
+AccessTempletElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/outside/!svn/ver/1495/outsideeasy/src/usercenter/saleManage/model/AccessTempletElement.java
+END
+AccessApplicationCompetitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/outside/!svn/ver/1829/outsideeasy/src/usercenter/saleManage/model/AccessApplicationCompetitor.java
+END
+AdmittanceInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/outside/!svn/ver/2474/outsideeasy/src/usercenter/saleManage/model/AdmittanceInvite.java
+END
+CheckfactoryReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/2196/outsideeasy/src/usercenter/saleManage/model/CheckfactoryReport.java
+END
+AccessRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/outside/!svn/ver/3498/outsideeasy/src/usercenter/saleManage/model/AccessRecord.java
+END
+AccessApplicationMetarial.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/outside/!svn/ver/1829/outsideeasy/src/usercenter/saleManage/model/AccessApplicationMetarial.java
+END

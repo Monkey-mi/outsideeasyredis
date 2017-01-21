@@ -1,0 +1,21 @@
+var CompanyNaturesUtil = [
+					{nature_id: '1', nature_name: '个体经营'},
+                    {nature_id: '2', nature_name: '内资企业'},
+                    {nature_id: '3', nature_name: '国有企业'},
+                    {nature_id: '4', nature_name: '集体企业'},
+                    {nature_id: '5', nature_name: '股份合作企业'},
+                    {nature_id: '6', nature_name: '联营企业'},
+                    {nature_id: '7', nature_name: '有限责任公司'},
+                    {nature_id: '8', nature_name: '股份有限公司'},
+                    {nature_id: '9', nature_name: '私营企业'},
+                    {nature_id: '10', nature_name: '其他企业'},
+                    {nature_id: '11', nature_name: '港、澳、台商投资企业'},
+                    {nature_id: '12', nature_name: '合资经营企业（港或澳、台资）'},
+                    {nature_id: '13', nature_name: '合作经营企业（港或澳、台资）'},
+                    {nature_id: '14', nature_name: '港、澳、台商独资经营企业'},
+                    {nature_id: '15', nature_name: '港、澳、台商投资股份有限公司'},
+                    {nature_id: '16', nature_name: '外商投资企业'},
+                    {nature_id: '17', nature_name: '中外合资经营企业'},
+                    {nature_id: '18', nature_name: '中外合作经营企业'},
+                    {nature_id: '19', nature_name: '外商投资股份有限公司'}
+];

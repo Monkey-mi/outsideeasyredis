@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture
+END
+SingleTouch.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/SingleTouch.js
+END
+LongPress.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/LongPress.js
+END
+MultiTouch.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/MultiTouch.js
+END
+Recognizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/Recognizer.js
+END
+Drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/Drag.js
+END
+Tap.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/Tap.js
+END
+DoubleTap.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/DoubleTap.js
+END
+EdgeSwipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/EdgeSwipe.js
+END
+Rotate.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/Rotate.js
+END
+Swipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/Swipe.js
+END
+Pinch.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/outside/!svn/ver/5/outsideeasy/WebRoot/ext/packages/sencha-core/src/event/gesture/Pinch.js
+END
