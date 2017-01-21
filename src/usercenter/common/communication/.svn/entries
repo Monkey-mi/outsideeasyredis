@@ -1,47 +1,0 @@
-10
-
-dir
-2915
-https://192.168.1.100/svn/outside/outsideeasy/src/usercenter/common/communication
-https://192.168.1.100/svn/outside
-
-
-
-2016-10-08T06:06:44.822313Z
-2567
-yukai
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-ba7abe7d-a8bd-bf40-8919-156d967070e3
-
-
-
-
-
-
-0
-
-controller
-dir
-
-data
-dir
-
-model
-dir
-
-service
-dir
-

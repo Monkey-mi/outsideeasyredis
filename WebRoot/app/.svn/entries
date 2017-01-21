@@ -1,174 +1,0 @@
-10
-
-dir
-2828
-https://192.168.1.100/svn/outside/outsideeasy/WebRoot/app
-https://192.168.1.100/svn/outside
-
-
-
-2016-11-03T02:27:49.545382Z
-2827
-yukai
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-ba7abe7d-a8bd-bf40-8919-156d967070e3
-
-Application.js
-file
-
-
-
-
-2016-03-10T08:34:39.645000Z
-91c47eace632a08a5c05b100d45b2515
-2016-03-10T07:21:37.102976Z
-3
-xufeng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-594
-
-Readme.md
-file
-
-
-
-
-2016-03-10T08:34:41.205000Z
-57676ba35d558d574a88615a60d0c772
-2016-03-10T07:21:37.102976Z
-3
-xufeng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1136
-
-applicationRecord
-dir
-
-basic
-dir
-
-basicdata
-dir
-
-codegen
-dir
-
-def
-dir
-
-enquiryQuote
-dir
-
-materialConfirmation
-dir
-
-mes
-dir
-
-mngOrderManager
-dir
-
-mngWebPublish
-dir
-
-module
-dir
-
-org
-dir
-
-platformdata
-dir
-
-role
-dir
-
-supplier
-dir
-
-supplierAccess
-dir
-
-supplierAudit
-dir
-
-supplierFile
-dir
-
-supplierManager
-dir
-
-syslog
-dir
-
-sysmodule
-dir
-
-templet
-dir
-
-user
-dir
-
-util
-dir
-
-ux
-dir
-
-view
-dir
-

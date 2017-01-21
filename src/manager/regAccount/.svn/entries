@@ -1,40 +1,0 @@
-10
-
-dir
-2828
-https://192.168.1.100/svn/outside/outsideeasy/src/manager/regAccount
-https://192.168.1.100/svn/outside
-
-
-
-2016-11-01T03:18:59.468867Z
-2801
-chenlong
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-ba7abe7d-a8bd-bf40-8919-156d967070e3
-
-controller
-dir
-
-data
-dir
-
-model
-dir
-
-service
-dir
-
