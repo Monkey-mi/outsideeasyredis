@@ -1,9 +1,8 @@
 /com
 /common
-/config
-/log4j.properties
 /manager
 /platform
 /test
 /usercenter
 /util
+/config
